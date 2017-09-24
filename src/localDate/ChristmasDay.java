@@ -9,9 +9,9 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Created by Umesh Adhikari on 24 Sep 2017, 12:03:01
+ * Created by aTijarp on 24 Sep 2017, 12:03:01
  *
- *Copyright © 2017 Umesh Adhikari. All rights reserved.
+ *Copyright © 2017 aTijarp. All rights reserved.
  */
 public class ChristmasDay {
 	static LocalDate startDate = LocalDate.of(1800, 12, 25);
